@@ -1,1 +1,99 @@
-
+Rahimtulla Tummalapalli
+QA Automation Engineer / SDET
+Hyderabad, India | +91 98858 59799 | rahim.tester@gmail.com |
+linkedin.com/in/rahim-tummalapalli-822509176
+QA Automation Engineer with 9+ years of experience in logistics, healthcare, banking and revenue
+management. Right now I'm at DP World working on Cargo Flow, a shipment tracking and visibility
+platform, where I handle testing for the Flow and Exception services. I mostly automate in Java (Selenium,
+Rest Assured, Selenide) and TypeScript (Playwright). I also tend to build small tools when I notice the team
+doing something by hand too often - a Chrome extension for bug reports, a billing pipeline the sales team
+now runs on their own, a weekly QA status report.
+Experience
+Senior QA Automation Engineer (SDET), DP World Jan 2025 - Present | Hyderabad
+Cargo Flow is a logistics tracking and visibility platform. I own testing for two of its services - Flow, which
+handles shipment milestones and events, and Exception, which handles delay and anomaly detection and
+alerts.
+• Own the test strategy, test cases, and API and UI automation for the Flow and Exception services, and
+sign off releases.
+• Deliver a steady stream of user stories every quarter and automate a good chunk of them, alongside
+regular on-call coverage.
+• Handle on-call support and recurring status updates to key clients, including on weekends, and led the
+root-cause investigation when a client reporting workflow broke.
+• Pointed out a gap around shareable links for existing records during a review - the client raised the same
+point independently not long after, and it turned into a user story. Also flagged a performance concern
+early on a different story before it turned into a bigger problem.
+• Fix regression and flaky test failures, review other engineers' automation pull requests, split up stories
+across the team based on who has bandwidth, and help newer team members with release notes and
+sign-off communication.
+Innovation & process improvements
+• Built a self-service reporting pipeline that moved a report the team used to generate manually into
+something the business team now runs on its own, cutting turnaround time by a lot.
+• Built a Chrome extension that makes raising a bug report faster for the QA team, and ran a session to
+walk the team through using it.
+• Automated a partner onboarding check that used to rely on someone reading a confirmation email,
+replacing it with a database-driven step that runs unattended.
+• Moved credentials (usernames and passwords) out of properties files - previously every small change
+needed its own pull request. Ran a POC on Key Vault first, but settled on reading directly from Azure
+DevOps Variable Groups via the API instead, for both local runs and the pipeline, since it was cheaper and
+simpler to maintain.
+• Set up a lightweight recurring QA status report that other teams can start using in about ten minutes -
+already picked up by another team beyond the one it started with.
+• Built an automated pipeline that generates release documentation, cutting out a manual step from every
+release.
+• Piloted a different approach to API test automation to speed up writing new tests, and suggested IDE
+tooling to help the rest of the team pick it up.
+Stack: Java, TypeScript, Playwright, Selenium, Rest Assured, Karate, Postman, Azure DevOps, Chrome Extensions,
+GitHub, Jenkins
+SDET II, Innovaccer Aug 2022 - Dec 2024 | Hyderabad
+Innovaccer builds a healthcare data platform that pulls information from hospitals, clinics and payers into one
+system for care coordination.
+• Went through business requirements and design documents, then wrote and kept the test strategy, test
+plan and test cases up to date for each release.
+• Wrote and maintained Selenium WebDriver and Playwright (TypeScript) scripts for functional and
+regression testing on a Cucumber framework.• Set up the automation framework so the same test suites could run across multiple platforms.
+• Decided which test cases stayed manual and which ones were worth automating with Rest Assured for
+smoke, functional and regression runs.
+• Did some R&D; on a test scenario design tool and took part in the team's AI initiatives.
+Stack: Java, TypeScript, Selenium WebDriver, Playwright, Cucumber, Rest Assured, TestNG, Maven, Extent Reports,
+GitHub
+Senior QA Engineer I, Model N Apr 2021 - Aug 2022 | Hyderabad
+Worked on Global Price Management, a revenue management product for life sciences and high-tech
+companies covering pricing, incentives and contracts.
+• Automated at least two stories every sprint using the Selenide framework and ran them through Jenkins.
+• Kept the automation suite close to a 100% pass rate by fixing failures as they showed up.
+• Reviewed pull requests from other automation engineers.
+• Took part regularly in grooming, daily stand-ups and retrospectives.
+Stack: Java, Selenium WebDriver, Selenide, TestNG, Maven, Jenkins, GitHub
+Technology Support Specialist, Infosys Mar 2019 - Apr 2021 | Hyderabad
+Client was Bank of America, on the Global Capital Markets team, supporting applications used by the debt and
+equity capital markets desks.
+• Built a Page Object automation framework with Selenium WebDriver and TestNG.
+• Identified web elements, wrote scripts against each new build, and generated test summary reports with
+Extent Reports through Maven.
+• Took part in scrum calls and sprint planning.
+Stack: Java, Selenium WebDriver, TestNG, Maven, Log4j, Extent Reports
+QA / Developer, Arjun Web Solutions Pvt Ltd Mar 2017 - Mar 2019 | Hyderabad
+Worked across two products - a home mortgage application, and Storm Overseas Education, an information
+portal and Android app for students planning to study abroad.
+• Built the Page Object automation framework for both products and ran regression and data-driven test
+suites with TestNG and Maven.
+• Tested REST services with Postman and logged defects in the bug tracking tool.
+• Built the Storm Overseas Education Android app and published it on the Google Play Store.
+Stack: Java, Selenium WebDriver, TestNG, Maven, Postman, Android
+Skills
+Languages Java, TypeScript
+UI automation Selenium WebDriver, Playwright, Selenide, Page Object Model, Page Factory
+API testing Rest Assured, Postman, Karate (POC)
+Frameworks &
+tooling
+TestNG, Cucumber, Maven, Log4j, Extent Reports, RAFT
+CI / version control Jenkins, Git, GitHub, Azure DevOps
+Other Chrome extension development, Android, Agile (Scrum), Waterfall
+IDEs / OS IntelliJ, Eclipse, Android Studio; Windows, macOS
+Certifications
+• Selenium Certified, Infosys (2020)
+• Basics of Cloud Computing, Infosys (2021)
+Education
+Bachelor of Engineering, Mechanical
+Swarnadhra College of Engineering & Technology
+2012 - 2016
